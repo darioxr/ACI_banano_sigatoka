@@ -1,0 +1,5 @@
+ID  Fraccion	Tipo	Estatus
+HoCEBA  Hoja	Convencional	Enfermo
+HoCSBA	Hoja	Convencional	Sano
+HoOEBA	Hoja	Organico	Enfermo
+HoOSBA	Hoja	Organico	Sano
