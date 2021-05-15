@@ -2,7 +2,7 @@
 
 Repositorio asociado a la publicacion:
 
-### Caracterización del microbioma foliar de banano y su variación en presencia del patógeno Sigatoka Negra *(Pseudocercospora fijiensis)*
+### Caracterización del microbioma foliar de banano y su variación en presencia del patógeno Sigatoka Negra (*Pseudocercospora fijiensis*)
 
 Alejandra Paladines-Montero, Claudia Zapata, Darío X. Ramirez-Villacis y Antonio León-Reyes
 
