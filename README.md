@@ -10,5 +10,5 @@ DOI
 
 Si necesita mas informacion por favor contactar a [dxramirez@usfq.edu.ec](mailto:dxramirez@usfq.edu.ec)
 
-Este repositorio contiene el raw data de la secuenciacion para bacteria y hongos.
+Este repositorio contiene el raw data de la secuenciacion para bacterias y hongos.
 
